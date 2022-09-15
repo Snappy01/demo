@@ -1,8 +1,8 @@
 {
     "name": "homeapp",
     "short_name": "homeapp",
-    "start_url": "index.html",
-  
+    "start_url": ".",
+    "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
